@@ -20,5 +20,10 @@
        * [Autocorrelation](#cov)
    * [Forecasting using ARIMA model (to be continued)](#cov)
    * [Forecasting using deep learning (to be continued)](#cov)
-
+   
+## Credit
+For the API part, I used simple wrappers for the public CryptoCompare API. <br />
+Cryptocompy: https://github.com/ttsteiger/cryptocompy <br />
+Cryptocompare: https://github.com/ExodusMovement/cryptocompare <br />
+Cryptocompare API: https://www.cryptocompare.com/api <br />
 
